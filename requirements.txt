@@ -1,0 +1,23 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+Pillow>=9.0.0
+numpy>=1.23.0
+scipy>=1.10.0
+
+# Visualization & notebooks
+matplotlib>=3.7.0
+jupyter>=1.0.0
+ipykernel>=6.22.0
+
+# Evaluation metrics
+scikit-image>=0.20.0   # SSIM, PSNR
+scikit-learn>=1.2.0
+
+# Progress & utilities
+tqdm>=4.65.0
+
+# Optional: GPU monitoring
+# gputil>=1.4.0
