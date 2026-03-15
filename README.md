@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Unsupervised and Semi-Supervised MRI Synthesis using CycleGAN and VAE-CycleGAN</b><br/>
-  <i>MTI805 – Image Understanding &nbsp;|&nbsp; École de Technologie Supérieure, Montréal &nbsp;|&nbsp; April 2024</i>
+  <i>MTI805 – Image Understanding &nbsp;</i>
 </p>
 
 ---
@@ -433,18 +433,6 @@ Performance plateaus at 75 % paired data, suggesting either a capacity limit or 
 
 ---
 
-## 👥 Authors
-
-| Name | Student ID |
-|---|---|
-| Eya Bdah | BDAE0432990 |
-| Eya Mlika | MLIE02379900 |
-| Bianca Popa | POPB27589607 |
-| Nilufar Estiry | ESTN85310101 |
-
-Supervised by **Luc Duong** — MTI805, Image Understanding, ÉTS Montréal
-
----
 
 ## 📖 References
 
@@ -462,6 +450,3 @@ Supervised by **Luc Duong** — MTI805, Image Understanding, ÉTS Montréal
 
 7. **Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P.** (2004). Image quality assessment: from error visibility to structural similarity. *IEEE Trans. Image Processing*, 13(4), 600–612.
 
----
-
-> *École de Technologie Supérieure (ÉTS), Montréal — April 2024. All rights reserved by the authors.*
