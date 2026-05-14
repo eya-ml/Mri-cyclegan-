@@ -1,4 +1,4 @@
-# 🧠 MRI Contrast Synthesis — T1 ↔ T2
+#  MRI Contrast Synthesis — T1 ↔ T2
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python&logoColor=white"/>
